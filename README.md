@@ -1,6 +1,6 @@
-The detailed steps shown [below](#appendix-2-running-the-tests) can be reproduced via
+The detailed steps shown below can be reproduced via
 [automated scripts](https://github.com/brimdata/super/blob/main/scripts/super-cmd-perf).
-As of this writing in December 2024, [results](#the-test-results) were gathered on an AWS
+As of this writing in December 2024, results were gathered on an AWS
 [`m6idn.2xlarge`](https://aws.amazon.com/ec2/instance-types/m6i/) instance
 with the following software versions:
 
