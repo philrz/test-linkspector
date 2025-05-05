@@ -12,6 +12,5 @@ jobs:
       - name: Run linkspector
         uses: umbrelladocs/action-linkspector@v1
         with:
-          github_token: ${{ secrets.github_token }}
-          reporter: github-pr-review
-          fail_level: any
+          fail_on_error: true
+          filter_mode: nofilter
