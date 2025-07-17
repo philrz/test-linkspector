@@ -15,8 +15,6 @@ Query Language](https://www.cidrdb.org/cidr2024/papers/p48-neumann.pdf)
 by [Neumann](https://db.in.tum.de/~neumann/)
 and [Leis](https://www.cs.cit.tum.de/dis/team/prof-dr-viktor-leis/).
 
-Here is [a bad link](https://www.uihdfjkhdjkshfdkj.com/)
-
 Armed with both sum and product types, super-structured data provides a 
 comprehensive algebraic type system that can represent any
 [JSON value as a concrete type](https://www.researchgate.net/publication/221325979_Union_Types_for_Semistructured_Data).
